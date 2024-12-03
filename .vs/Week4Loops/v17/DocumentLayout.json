@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Saskia\\source\\repos\\Week4Loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F691C97-C62A-4D19-A1C6-08D780888082}|ForLoopSum\\ForLoopSum.csproj|c:\\users\\saskia\\source\\repos\\week4loops\\forloopsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F691C97-C62A-4D19-A1C6-08D780888082}|ForLoopSum\\ForLoopSum.csproj|solutionrelative:forloopsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B827700F-276F-47D4-A6A1-E5A8F7FE80D7}|Week4Loops\\Week4Loops.csproj|c:\\users\\saskia\\source\\repos\\week4loops\\week4loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B827700F-276F-47D4-A6A1-E5A8F7FE80D7}|Week4Loops\\Week4Loops.csproj|solutionrelative:week4loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A61B622-43BF-4561-BED0-8CEE693DA6E7}|RandomNumber\\RandomNumber.csproj|c:\\users\\saskia\\source\\repos\\week4loops\\randomnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A61B622-43BF-4561-BED0-8CEE693DA6E7}|RandomNumber\\RandomNumber.csproj|solutionrelative:randomnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD2F20-70C0-4104-B315-66732A8991F3}|WhileLoops\\WhileLoops.csproj|c:\\users\\saskia\\source\\repos\\week4loops\\whileloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FD2F20-70C0-4104-B315-66732A8991F3}|WhileLoops\\WhileLoops.csproj|solutionrelative:whileloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saskia\\source\\repos\\Week4Loops\\WhileLoops\\Program.cs",
+              "RelativeDocumentMoniker": "WhileLoops\\Program.cs",
+              "ToolTip": "C:\\Users\\Saskia\\source\\repos\\Week4Loops\\WhileLoops\\Program.cs",
+              "RelativeToolTip": "WhileLoops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:51:08.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saskia\\source\\repos\\Week4Loops\\RandomNumber\\Program.cs",
+              "RelativeDocumentMoniker": "RandomNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Saskia\\source\\repos\\Week4Loops\\RandomNumber\\Program.cs",
+              "RelativeToolTip": "RandomNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:41:00.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saskia\\source\\repos\\Week4Loops\\ForLoopSum\\Program.cs",
+              "RelativeDocumentMoniker": "ForLoopSum\\Program.cs",
+              "ToolTip": "C:\\Users\\Saskia\\source\\repos\\Week4Loops\\ForLoopSum\\Program.cs",
+              "RelativeToolTip": "ForLoopSum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:30:56.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saskia\\source\\repos\\Week4Loops\\Week4Loops\\Program.cs",
+              "RelativeDocumentMoniker": "Week4Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\Saskia\\source\\repos\\Week4Loops\\Week4Loops\\Program.cs",
+              "RelativeToolTip": "Week4Loops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:18:22.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
